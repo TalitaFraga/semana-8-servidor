@@ -1,0 +1,68 @@
+[
+    {
+      "book": "Le Petit Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "publishing_year": 1943,
+      "genres": ["Fantasy"]
+    },
+    {
+      "book": "The Hobbit",
+      "author": "J. R. R. Tolkien",
+      "publishing_year": 1937,
+      "genres": ["Fantasy"]
+    },
+    {
+      "book": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "publishing_year": 1997,
+      "genres": ["Fantasy", "Mystery"]
+    },
+    {
+      "book": "And Then There Were None",
+      "author": "Agatha Christie",
+      "publishing_year": 1939,
+      "genres": ["Mystery"]
+    },
+    {
+      "book": "Dream of the Red Chamber",
+      "author": "Cao Xueqin",
+      "publishing_year": 1791,
+      "genres": ["Family saga"]
+    },
+    {
+      "book": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "publishing_year": 2003,
+      "genres": ["Mystery thriller"]
+    },
+    {
+      "book": "The Alchemist",
+      "author": "Paulo Coelho",
+      "publishing_year": 1988,
+      "genres": ["Fantasy"]
+    },
+    {
+      "book": "Lolita",
+      "author": "Vladimir Nabokov",
+      "publishing_year": 1955,
+      "genres": ["General"]
+    },
+    {
+      "book": "The Lion, the Witch and the Wardrobe",
+      "author": "C. S. Lewis",
+      "publishing_year": 1950,
+      "genres": ["Fantasy"]
+    },
+    {
+      "book": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "publishing_year": 1967,
+      "genres": ["Magic Realism"]
+    },
+    {
+      "book": "Black Beauty",
+      "author": "Anna Sewell",
+      "publishing_year": 1877,
+      "genres": ["Children's literature"]
+    }
+]
