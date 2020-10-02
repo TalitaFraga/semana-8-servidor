@@ -1,5 +1,5 @@
 
-const books = require ("../model/books.json")
+const books = require ("../model/series.json")
 
 const getAll = (req, res) => {
     console.log(req.url)
