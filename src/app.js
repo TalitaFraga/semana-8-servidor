@@ -4,6 +4,7 @@ const app = express()
 const books = require('./route/seriesRoute')
 
 app.use(express.static('public'))
+
 app.use('/', books)
 
 app.get('*', (req, res) => {
